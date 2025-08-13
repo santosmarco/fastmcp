@@ -5,7 +5,7 @@
  * replacing Python's Pydantic models with Effect's schema system.
  */
 
-import { Schema } from "@effect/schema"
+import { Schema } from "effect"
 import type {
   JSONRPCVersion,
   RequestId,

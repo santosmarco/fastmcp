@@ -38,9 +38,7 @@
     "typecheck": "tsc --noEmit"
   },
   "dependencies": {
-    "effect": "^3.8.4",
-    "@effect/schema": "^0.75.4",
-    "@effect/platform": "^0.67.3"
+    "effect": "^2.4.0"
   },
   "devDependencies": {
     "@types/node": "^22.0.0",
