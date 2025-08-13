@@ -18,6 +18,9 @@ export * from "./schema/index.js"
 // Utilities
 export * from "./utils/index.js"
 
+// Transport layer
+export * from "./transport/index.js"
+
 /**
  * Version information
  */
