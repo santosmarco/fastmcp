@@ -21,6 +21,9 @@ export * from "./utils/index.js"
 // Transport layer
 export * from "./transport/index.js"
 
+// Advanced utilities (logging, caching, config, performance)
+export * from "./utilities/index.js"
+
 /**
  * Version information
  */
